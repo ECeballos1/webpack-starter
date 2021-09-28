@@ -1,0 +1,4 @@
+
+# carpetas que git no les dará seguimiento
+node_modules/ 
+dist/

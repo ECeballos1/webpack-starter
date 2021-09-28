@@ -11,5 +11,5 @@ Reconstruccion de modulos de Node
 Para construir el build
 `$ npm run build`
 
-Subirlo a github 
+Subirlo a github
 `$ git push -u origin main`
